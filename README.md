@@ -6,6 +6,7 @@
 
 🩸🩸🩸 **Cryptocurrency Wallets (Inlcuding Browser based)** 🩸🩸🩸
 🎷AtomicWallet
+🎷Phantom
 🎷Bitcoin
 🎷Bither
 🎷Bytecoin
